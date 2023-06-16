@@ -7,3 +7,4 @@ requests
 transformers
 llama-hub
 pinecone-client
+urllib3
